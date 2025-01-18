@@ -28,7 +28,9 @@ Adapted matrix orientations for accurate display and functionality.
 **Technologies & Tools:**
 
 Hardware: ATMEGA328P, IR LED, TSOP4836, MAX7219, LED Matrices, Arduino.
+
 Software: C++ for microcontroller programming.
+
 PCB Design: Developed custom PCB layouts for hardware components.
 
 **Achievements:**
